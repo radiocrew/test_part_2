@@ -28,9 +28,17 @@ linked_list = TLinkedList()
 
 linked_list.add(4)
 linked_list.add(1)
-
 linked_list.add(3)
 linked_list.add(20)
+linked_list.add(4)
+linked_list.add(1)
+linked_list.add(3)
+linked_list.add(20)
+linked_list.add(4)
+linked_list.add(1)
+linked_list.add(3)
+linked_list.add(20)
+
 
 
 counter = Counter()
