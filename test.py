@@ -125,7 +125,15 @@ class LinkedList:
 # linked_list.add(Node(3))
 # linked_list.add(Node(3))
 # linked_list.add(Node(30))
-
+# linked_list.add(Node(1))
+# linked_list.add(Node(2))
+# linked_list.add(Node(3))
+# linked_list.add(Node(4))
+# linked_list.add(Node(2))
+# linked_list.add(Node(4))
+# linked_list.add(Node(3))
+# linked_list.add(Node(3))
+# linked_list.add(Node(30))
 
 # linked_list.show()
 # print('after del dup')
