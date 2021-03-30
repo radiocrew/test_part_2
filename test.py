@@ -74,7 +74,7 @@ class LinkedList:
             cur = None
             cur = self.head.next
 
-        print('all cleared!')
+        print('all cleared!!!')
         return
 
     def show(self):
