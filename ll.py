@@ -26,10 +26,11 @@ class Counter:
 linked_list = TLinkedList()
 
 
-linked_list.add(10)
-linked_list.add(20)
-linked_list.add(30)
-linked_list.add(40)
+linked_list.add(4)
+linked_list.add(1)
+
+linked_list.add(3)
+linked_list.add(2)
 
 
 counter = Counter()
