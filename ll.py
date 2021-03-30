@@ -30,12 +30,12 @@ linked_list.add(4)
 linked_list.add(1)
 
 linked_list.add(3)
-linked_list.add(2)
+linked_list.add(20)
 
 
 counter = Counter()
 
-counter.get_counter(linked_list.head, 2)
+counter.get_counter(linked_list.head, 20)
 
 #4-3-2-1 
 #뒤에서 2번째 : 2
